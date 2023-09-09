@@ -2,7 +2,7 @@
 
 ## TL;DR:
 
-1. Clone this git repo ```git clone https://github.com/```
+1. Clone this git repo ```git clone https://github.com/tretyakovalex/NodeJS-Angular-Template.git```
 2. Navigate to ```backend``` folder
 3. Run ```npm install```
 4. Run ```node app.js```
